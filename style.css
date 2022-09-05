@@ -1,0 +1,28 @@
+body {
+  background-color: lightblue;
+  color: navy;
+  margin: 10%;
+  background: url(https://i.imgur.com/MJAkxbh.png);
+  
+}
+
+
+
+
+p {
+  font-size: 18px;
+}
+
+.workexperience {
+  background-color: salmon;
+  padding-left: 5px;
+}
+
+.Education {
+  background-color: salmon;
+  padding-left: 5px;
+}
+
+img {
+  width: 350px;
+}
