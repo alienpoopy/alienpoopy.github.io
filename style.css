@@ -63,13 +63,13 @@ h1::before {
 
 
 .Chipotle{
-  position: absolute;
+  position: relative;
   top: 51%;
   left: 4%;
 }
 
 .Zen{
-  position: absolute;
+  position: relative;
   height: 60px;
   top: 84%;
 }
